@@ -4,7 +4,7 @@
 Ce projet individuel porte sur l'analyse et la compréhension des transactions Bitcoin.
 
 ## 2. Objectif
-Comprendre comment les transactions Bitcoin sont enregistrées et vérifiées sur la blockchain.
+Comprendre comment les transactions Bitcoin sont enregistrées, vérifiées et sécurisées sur la blockchain grâce à la cryptographie et au réseau décentralisé.
 
 ## 3. Méthodologie
 - Présentation du fonctionnement des transactions Bitcoin.
